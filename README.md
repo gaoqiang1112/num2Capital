@@ -21,7 +21,7 @@ num2Capital主要用于阿拉伯数字转换成中文大写或转换成RMB人民
 ```
 
 ```javascript
-npm i num2Capital
+npm i num2capital
 ```
 
 ```html

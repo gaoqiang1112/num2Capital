@@ -1,6 +1,6 @@
 {
   "name": "num2capital",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "阿拉伯数字转换成中文汉字和人民币汉字",
   "main": "index.js",
   "scripts": {
