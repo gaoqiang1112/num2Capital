@@ -4,7 +4,8 @@
   "description": "阿拉伯数字转换成中文汉字和人民币汉字",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack --color --progress "
   },
   "repository": {
     "type": "git",
@@ -20,5 +21,13 @@
   "bugs": {
     "url": "https://github.com/gaoqiang1112/num2Capital/issues"
   },
-  "homepage": "https://github.com/gaoqiang1112/num2Capital#readme"
+  "homepage": "https://github.com/gaoqiang1112/num2Capital#readme",
+  "devDependencies": {
+    "@babel/core": "^7.7.2",
+    "@babel/preset-env": "^7.7.1",
+    "babel-loader": "^8.0.6",
+    "uglifyjs-webpack-plugin": "^2.2.0",
+    "webpack": "^4.41.2",
+    "webpack-cli": "^3.3.10"
+  }
 }
