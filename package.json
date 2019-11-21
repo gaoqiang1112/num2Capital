@@ -1,0 +1,24 @@
+{
+  "name": "num2capital",
+  "version": "1.0.0",
+  "description": "阿拉伯数字转换成中文汉字和人民币汉字",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gaoqiang1112/num2Capital.git"
+  },
+  "keywords": [
+    "rmb",
+    "cn",
+    "阿拉伯数字"
+  ],
+  "author": "gaoqiang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gaoqiang1112/num2Capital/issues"
+  },
+  "homepage": "https://github.com/gaoqiang1112/num2Capital#readme"
+}
