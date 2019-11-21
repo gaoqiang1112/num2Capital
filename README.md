@@ -1,4 +1,4 @@
-# num2Capital
+# num2capital
 阿拉伯数字转换成中文汉字和人民币汉字
 
 > 引入介绍（Introduction）
